@@ -1,0 +1,41 @@
+Test 2: The program must be able to handle multiple numbers and multiple operations.
+
+Input : PASS
+3
+3
+*
+4
+4
+*
++
+=
+25
+
+Input :PASS
+1234
+2345
+3456
+d
++
+d
++
+d
+=
+
+
+1234
+2345
+3456
+d
+1234
+2345
+3456
++
+d
+1234
+5801
++
+d
+7035
+=
+7035

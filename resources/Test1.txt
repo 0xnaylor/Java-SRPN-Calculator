@@ -1,0 +1,38 @@
+Test Cases:
+
+Test 1: The program must be able to input at least two numbers and perform one operation correctly and output.
+
+Input : PASS
+10
+2
++
+=
+12
+
+Input : PASS
+11
+3
+-
+=
+8
+
+Input : PASS
+9
+4
+*
+=
+36
+
+Input : PASS
+11
+3
+/
+=
+3
+
+Input : PASS
+11
+3
+%
+=
+2

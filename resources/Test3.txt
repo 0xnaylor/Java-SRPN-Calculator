@@ -1,0 +1,33 @@
+Test 3 - The program must be able to correctly handle saturation.
+
+max range for integers
+-2147483648 to 2147483647
+
+Input : PASS
+2147483647
+1
++
+=
+2147483647
+
+Input : PASS
+-2147483647
+1
+-
+=
+-2147483648
+20
+-
+=
+-2147483648
+
+Input : PASS
+100000
+0
+-
+d
+100000
+*
+Stack underflow.
+=
+100000
